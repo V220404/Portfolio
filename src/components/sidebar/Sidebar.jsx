@@ -59,7 +59,7 @@ export default function Sidebar() {
       <div className='topHashtag'># coding</div>
       <h1>
         <Link smooth to='/#start' className='h1_links'>
-          Sachin Mittal
+         Varun Sankhe
         </Link>
       </h1>
       <motion.div
@@ -124,7 +124,7 @@ export default function Sidebar() {
         }}
         className='tagtop'
       >
-        Made with <a href='#' className='fa fa-heart heart'></a> by me.
+        Made by <a href='#' className='fa fa-heart heart'></a> by Varun Sankhe.
       </div>
     </div>
   );
